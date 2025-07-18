@@ -17,4 +17,3 @@ git commit -m "Initial commit - Portfolio Website"
 
 # Push to GitHub
 git push -u origin master
-
